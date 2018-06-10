@@ -20,6 +20,10 @@ Rust 是一个系统编程语言，它注重于三个方面：安全，速度和
 - 速度 待续
 - 并发 待续
 
+### 等级
+
+#### 👀 == 快速看 | 🔍 == 仔细看
+
 ---
 
 穷
@@ -35,22 +39,22 @@ Rust 是一个系统编程语言，它注重于三个方面：安全，速度和
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [1. 猜猜看游戏-示例](#1-%E7%8C%9C%E7%8C%9C%E7%9C%8B%E6%B8%B8%E6%88%8F-%E7%A4%BA%E4%BE%8B)
-- [2. 第一次使用库-fs_extra](#2-%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8%E5%BA%93-fs_extra)
+- [1. 猜猜看游戏-示例👀](#1-%E7%8C%9C%E7%8C%9C%E7%9C%8B%E6%B8%B8%E6%88%8F-%E7%A4%BA%E4%BE%8B)
+- [2. 第一次使用库-fs_extra👀](#2-%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8%E5%BA%93-fs_extra)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
 
-## 1. 猜猜看游戏-示例
+## 1. 猜猜看游戏-示例👀
 
-> 主要是尝试
+> 主要是尝试 
 
 https://github.com/chinanf-boy/guessing_game
 
-## 2. 第一次使用库-fs_extra
+## 2. 第一次使用库-fs_extra👀
 
-> 主要是尝试
+> 主要是尝试 
 
 https://github.com/chinanf-boy/fs_extra_try
 
