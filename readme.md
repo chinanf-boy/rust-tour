@@ -1,10 +1,10 @@
 # Rust-tour 
 
-「 顾名思义, rust 的旅行 」
+「 顾名思义, rust 的旅行, rust路途是颠簸的 」
 
 > 中途可能会下车
 
-[github source]()
+[github source](https://github.com/rust-lang/rust)
 
 [中文](./readme.md) | ~~[english](./readme.en.md)~~
 
@@ -12,7 +12,7 @@
 
 ### rust
 
-> 在这一刻, 写下, 我是一个白萌新, 以下是我的`rust`之旅, 按顺序来
+> 在这一刻, 写下, 我是一个白萌新, 以下是我的`rust`之旅, 我只想走得顺一点, 按顺序来
 
 Rust 是一个系统编程语言，它注重于三个方面：安全，速度和并发性
 
@@ -65,3 +65,10 @@ https://github.com/chinanf-boy/fs_extra_try
 那么我们来下一步, https://slashtutorial.com/rust/1-basics/ `en`
 
 > 中文-待续, 看看我有没时间翻译
+
+
+# 有用的链接
+
+- https://play.rust-lang.org/ {官方网上游乐场}
+- https://rust.cc/ Rust 中文社区论坛 「较为简单」
+- https://github.com/rust-unofficial/awesome-rust {rust 库库库}
