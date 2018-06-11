@@ -64,7 +64,9 @@ https://github.com/chinanf-boy/fs_extra_try
 
 那么我们来下一步, https://slashtutorial.com/rust/1-basics/ `en`
 
-> 中文-待续, 看看我有没时间翻译
+> [中文-待续](https://github.com/chinanf-boy/gentle-intro) 没有校对, 使用 `translate-mds` 完成初稿
+
+> [ 翻译 网址 ](https://chinanf-boy.github.io/gentle-intro)
 
 
 # 有用的链接
