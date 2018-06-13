@@ -62,13 +62,13 @@ https://github.com/chinanf-boy/fs_extra_try
 
 经过上面, 快速看, 不需要懂 大致了解了一下, rust
 
-那么我们来下一步, https://slashtutorial.com/rust/1-basics/ `en`
+那么我们来下一步看看基础, https://slashtutorial.com/rust/1-basics/ `en` 只看第一章
 
 > [中文-待续](https://github.com/chinanf-boy/gentle-intro) 没有校对, 使用 `translate-mds` 完成初稿
 
 > [ 翻译 网址 ](https://chinanf-boy.github.io/gentle-intro)
 
-## 4. 尝试项目
+## 4. 尝试项目👀
 
 永远都有前人种树
 
@@ -76,6 +76,16 @@ https://github.com/chinanf-boy/fs_extra_try
 - [一个简单，快速和用户友好的替代方案'find' :fd](https://github.com/sharkdp/fd)
 - [现代编辑器，后端用Rust编写。:xi-editor](https://github.com/google/xi-editor)
 - [xi-editor-现代编辑器，前端。:xi-mac](https://github.com/google/xi-mac)
+
+## 5. rust by example🔍
+
+然后我们进入, rust 为什么安全和速度的问题
+
+- [作用域规则](https://rustwiki.org/zh-CN//rust-by-example/scope.html)
+
+> 在这节过后, 你就会发现, rust大部分的编译错误都是为了遵守这套规则
+
+## 6. ～～
 
 # 有用的链接
 
