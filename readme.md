@@ -68,6 +68,14 @@ https://github.com/chinanf-boy/fs_extra_try
 
 > [ 翻译 网址 ](https://chinanf-boy.github.io/gentle-intro)
 
+## 4. 尝试项目
+
+永远都有前人种树
+
+- [跨平台，GPU加速的终端仿真器 :alacritty](https://github.com/jwilm/alacritty)
+- [一个简单，快速和用户友好的替代方案'find' :fd](https://github.com/sharkdp/fd)
+- [现代编辑器，后端用Rust编写。:xi-editor](https://github.com/google/xi-editor)
+- [xi-editor-现代编辑器，前端。:xi-mac](https://github.com/google/xi-mac)
 
 # 有用的链接
 
