@@ -97,3 +97,4 @@ https://github.com/chinanf-boy/fs_extra_try
 - https://play.rust-lang.org/ {官方网上游乐场}
 - https://rust.cc/ Rust 中文社区论坛 「较为简单」
 - https://github.com/rust-unofficial/awesome-rust {rust 库库库}
+- https://rustwiki.org/zh-CN//rust-by-example/index.html {rust-例子「rust by example」中文}
