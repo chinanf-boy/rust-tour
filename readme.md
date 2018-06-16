@@ -44,7 +44,7 @@ Rust 是一个系统编程语言，它注重于三个方面：安全，速度和
   - [3. rust-愉快的基础🔍](#3-rust-%E6%84%89%E5%BF%AB%E7%9A%84%E5%9F%BA%E7%A1%80)
   - [4. 尝试项目👀](#4-%E5%B0%9D%E8%AF%95%E9%A1%B9%E7%9B%AE)
   - [5. rust by example🔍](#5-rust-by-example)
-  - [6. ～～](#6-)
+  - [6. 模块/库/Cargo的使用](#6-%E6%A8%A1%E5%9D%97%E5%BA%93cargo%E7%9A%84%E4%BD%BF%E7%94%A8)
 - [有用的链接](#%E6%9C%89%E7%94%A8%E7%9A%84%E9%93%BE%E6%8E%A5)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -90,7 +90,20 @@ https://github.com/chinanf-boy/fs_extra_try
 
 > 在这节过后, 你就会发现, rust大部分的编译错误都是为了遵守这套规则
 
-## 6. ～～
+## 6. 模块/库/Cargo的使用
+
+> 到了这里我们应该知道 大多数语言 公认的美好 模块/库
+
+如果你拥有, 其他语言库的使用情况, 那么你会喜欢, 快速看版本
+
+- `模块` https://rustwiki.org/zh-CN//rust-by-example/mod.html 👀
+- `库` https://rustwiki.org/zh-CN//rust-by-example/crates.html 👀
+- `Cargo` https://kaisery.github.io/trpl-zh-cn/ch01-03-hello-cargo.html 👀
+
+> 非常不建议, rust 作为 第一语言来说, 这总是要付出更多, 仔细版本
+
+- `模块与Cargo` http://chinanf-boy.github.io/gentle-intro/4-modules.zh.html 🔍
+
 
 # 有用的链接
 
