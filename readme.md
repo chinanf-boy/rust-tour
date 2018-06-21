@@ -43,8 +43,10 @@ Rust 是一个系统编程语言，它注重于三个方面：安全，速度和
   - [2. 第一次使用库-fs_extra👀](#2-%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8%E5%BA%93-fs_extra)
   - [3. rust-愉快的基础🔍](#3-rust-%E6%84%89%E5%BF%AB%E7%9A%84%E5%9F%BA%E7%A1%80)
   - [4. 尝试项目👀](#4-%E5%B0%9D%E8%AF%95%E9%A1%B9%E7%9B%AE)
-  - [5. rust by example🔍](#5-rust-by-example)
+  - [5. rust 安全与速度🔍](#5-rust-%E5%AE%89%E5%85%A8%E4%B8%8E%E9%80%9F%E5%BA%A6)
   - [6. 模块/库/Cargo的使用](#6-%E6%A8%A1%E5%9D%97%E5%BA%93cargo%E7%9A%84%E4%BD%BF%E7%94%A8)
+  - [7. trait](#7-trait)
+  - [8. 并发](#8-%E5%B9%B6%E5%8F%91)
 - [有用的链接](#%E6%9C%89%E7%94%A8%E7%9A%84%E9%93%BE%E6%8E%A5)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -82,17 +84,18 @@ https://github.com/chinanf-boy/fs_extra_try
 - [现代编辑器，后端用Rust编写。:xi-editor](https://github.com/google/xi-editor)
 - [xi-editor-现代编辑器，前端。:xi-mac](https://github.com/google/xi-mac)
 
-## 5. rust by example🔍
+## 5. rust 安全与速度🔍
 
 然后我们进入, rust 为什么安全和速度的问题
 
 - [作用域规则](https://rustwiki.org/zh-CN//rust-by-example/scope.html)
+- [生命周期](https://kaisery.github.io/trpl-zh-cn/ch10-03-lifetime-syntax.html)
 
 > 在这节过后, 你就会发现, rust大部分的编译错误都是为了遵守这套规则
 
 ## 6. 模块/库/Cargo的使用
 
-> 到了这里我们应该知道 大多数语言 公认的美好 模块/库
+> 到了这里我们应该知道 大多数语言 公认的美好 模块/库/库管理
 
 如果你拥有, 其他语言库的使用情况, 那么你会喜欢, 快速看版本
 
@@ -104,6 +107,18 @@ https://github.com/chinanf-boy/fs_extra_try
 
 - `模块与Cargo` http://chinanf-boy.github.io/gentle-intro/4-modules.zh.html 🔍
 
+## 7. trait
+
+- [trait : 定义共享的行为](https://kaisery.github.io/trpl-zh-cn/ch10-02-traits.html)🔍
+
+> 这部分的, 更应该是说 Rust 的编写代码特点和如何简化代码
+
+## 8. 并发
+
+> 在这里我们来到了, rust 的并发问题 
+
+- [线程,网络和共享](http://llever.com/gentle-intro/7-shared-and-networking.zh.html)👀
+- [无畏并发](https://kaisery.github.io/trpl-zh-cn/ch16-00-concurrency.html)🔍
 
 # 有用的链接
 
@@ -111,3 +126,5 @@ https://github.com/chinanf-boy/fs_extra_try
 - https://rust.cc/ Rust 中文社区论坛 「较为简单」
 - https://github.com/rust-unofficial/awesome-rust {rust 库库库}
 - https://rustwiki.org/zh-CN//rust-by-example/index.html {rust-例子「rust by example」中文}
+- https://kaisery.github.io/trpl-zh-cn/foreword.html {官方rust第二版-中文翻译}
+- https://chinanf-boy.github.io/gentle-intro {温柔的介绍 rust 中文翻译}
