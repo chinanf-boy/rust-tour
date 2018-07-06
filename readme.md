@@ -2,7 +2,7 @@
 
 「 顾名思义, rust 的旅行, rust路途是颠簸的 」
 
-> 中途可能会下车
+> 中途可能会下车, [对 Rust 的分析](http://www.yinwang.org/blog-cn/2016/09/18/rust)
 
 [github source](https://github.com/rust-lang/rust)
 
