@@ -49,6 +49,7 @@ Rust 是一个系统编程语言，它注重于三个方面：安全，速度和
     - [放大镜版本](#%E6%94%BE%E5%A4%A7%E9%95%9C%E7%89%88%E6%9C%AC)
   - [7. trait](#7-trait)
   - [8. 并发](#8-%E5%B9%B6%E5%8F%91)
+  - [9. explain](#9-explain)
 - [有用的链接](#%E6%9C%89%E7%94%A8%E7%9A%84%E9%93%BE%E6%8E%A5)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -132,6 +133,10 @@ https://github.com/chinanf-boy/fs_extra_try
 
 - [线程,网络和共享](http://llever.com/gentle-intro/7-shared-and-networking.zh.html)👀
 - [无畏并发](https://kaisery.github.io/trpl-zh-cn/ch16-00-concurrency.html)🔍
+
+## 9. explain
+
+- [rust-playground](https://github.com/chinanf-boy/rust-playground-explain)
 
 # 有用的链接
 
