@@ -17,7 +17,7 @@
 Rust 是一个系统编程语言，它注重于三个方面：安全，速度和并发性
 
 - [安全](#5-rust-%E5%AE%89%E5%85%A8%E4%B8%8E%E9%80%9F%E5%BA%A6), 意味着, 你需要遵循它的规则 > 所有权; 引用和借用; 生命周期
-- 速度 [块范围](http://llever.com/gentle-intro/2-structs-enums-lifetimes.zh.html#a%E5%8F%98%E9%87%8F%E7%9A%84%E8%8C%83%E5%9B%B4)
+- 速度 , [块范围](http://llever.com/gentle-intro/2-structs-enums-lifetimes.zh.html#a%E5%8F%98%E9%87%8F%E7%9A%84%E8%8C%83%E5%9B%B4)
 - 并发 待续
 
 ### 阅读方式
@@ -46,6 +46,7 @@ Rust 是一个系统编程语言，它注重于三个方面：安全，速度和
     - [速度](#%E9%80%9F%E5%BA%A6)
   - [6. 模块/库/Cargo的使用](#6-%E6%A8%A1%E5%9D%97%E5%BA%93cargo%E7%9A%84%E4%BD%BF%E7%94%A8)
     - [快速看版本](#%E5%BF%AB%E9%80%9F%E7%9C%8B%E7%89%88%E6%9C%AC)
+  - [练习](#%E7%BB%83%E4%B9%A0)
     - [放大镜版本](#%E6%94%BE%E5%A4%A7%E9%95%9C%E7%89%88%E6%9C%AC)
   - [7. trait](#7-trait)
   - [8. 并发](#8-%E5%B9%B6%E5%8F%91)
@@ -114,6 +115,17 @@ https://github.com/chinanf-boy/fs_extra_try
 - `模块` https://rustwiki.org/zh-CN//rust-by-example/mod.html 👀
 - `库` https://rustwiki.org/zh-CN//rust-by-example/crates.html 👀
 - `Cargo` https://kaisery.github.io/trpl-zh-cn/ch01-03-hello-cargo.html 👀
+
+
+## 练习
+
+- [exercism.io 的练习之旅](https://exercism.io/my/tracks/rust)
+
+> 缺点: 无法在网上编写，只能通过一个工具(Go语言)，而在中国网络下载十分勉强，
+
+可直接clone [github 源库](https://github.com/exercism/rust) , `exercises`目录下就是练习
+
+> 幸运的是，有答案o
 
 ### 放大镜版本
 
