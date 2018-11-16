@@ -153,8 +153,10 @@ https://github.com/chinanf-boy/fs_extra_try
 # 有用的链接
 
 - https://play.rust-lang.org/ {官方网上游乐场}
-- https://rust.cc/ Rust 中文社区论坛 「较为简单」
-- https://github.com/rust-unofficial/awesome-rust {rust 酷库}
+- https://rust.cc/ { Rust 中文社区论坛 } 「较为简陋」
+- https://doc.rust-lang.org/cargo/ 「 Cargo 官书」
+- https://github.com/chinanf-boy/mdBook-zh 「 rust语言的md文档生成器，mdBook 的 中文文档 」
+- https://github.com/rust-unofficial/awesome-rust {rust awesome库}
 - https://rustwiki.org/zh-CN//rust-by-example/index.html {rust-例子「rust by example」中文翻译}
 - https://kaisery.github.io/trpl-zh-cn/foreword.html {官方rust第二版-中文翻译}
 - https://github.com/chinanf-boy/gentle-intro {温柔的介绍 rust 中文翻译}
