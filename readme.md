@@ -38,6 +38,8 @@
 
 - https://github.com/chinanf-boy/gentle-intro {温柔的介绍 rust 中文}
 - https://kaisery.github.io/trpl-zh-cn/foreword.html {官方 rust 第二版-中文}
+- https://github.com/chinanf-boy/cli-wg-zh {Rust 命令行工作组之书}
+- https://github.com/chinanf-boy/rustdoc-zh {Rust 文档化工具之书}
 
 ## 例子
 
