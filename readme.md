@@ -31,6 +31,7 @@
 ### ffi（Foreign Function Interface）语言交互接口
 
 - [使用 Rust 构建一个快速的 Electron APP ](https://www.anquanke.com/post/id/101600) `electron` `neno` `rust`
+- [较为全面的，Rust 代码在`其他`语言的使用示例](https://github.com/chinanf-boy/rust-ffi-omnibus) `ffi` `language`
 
 ## 重要链接
 
